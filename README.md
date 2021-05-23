@@ -1,4 +1,4 @@
-# wechat-code
+# wechat-code
 
 收集微信公众号`一手代码一首诗`文章中的代码仓库.
 
